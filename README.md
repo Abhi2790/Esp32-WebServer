@@ -23,6 +23,8 @@ For **Arduino IDE**, install:
 - `AsyncTCP`
 - `SD`
 - `SPI`
+- `FS`
+  
 
 For **PlatformIO (VS Code)**, add to `platformio.ini`:  
 ```ini
