@@ -49,19 +49,15 @@ lib_deps =
    ```html
    <h1>Hello from ESP32!</h1>
    ```
-3. Insert SD card into module.  
+3. Add an `style.css` file and icon you like:
+   
+4. Insert SD card into module.  
 
 #### **5. Upload & Run**  
 For **Arduino IDE**:  
 1. Select **ESP32 Dev Module** in **Tools → Board**.  
 2. Set **115200 baud rate** in Serial Monitor.  
 3. Click **Upload**.  
-
-For **PlatformIO**:  
-```bash
-pio run --target upload
-pio device monitor
-```
 
 #### **6. Access Web Server**  
 Find the ESP32 IP in the **Serial Monitor** and open:  
