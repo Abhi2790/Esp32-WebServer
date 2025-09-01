@@ -1,4 +1,4 @@
-# esp32-webserver
+# ESP32-webserver
 
 This ESP32 web server serves HTML/text files stored on an SD card over WiFi. You can access these files from any device on the network or remotely via port forwarding.  
 
